@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "deep-equal": "^1.0.1",
-    "object-path": "^0.11.4"
+    "object-path": "^0.11.5"
   },
   "directories": {
     "test": "test"
